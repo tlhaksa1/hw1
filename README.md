@@ -1,2 +1,2 @@
 # hw1
-Stata Programming II 
+Stata Programming II (Intermediate)
